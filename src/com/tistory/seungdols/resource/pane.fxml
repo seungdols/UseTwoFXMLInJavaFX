@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text layoutX="262.0" layoutY="107.0" strokeType="OUTSIDE" strokeWidth="0.0" text="JavaFX 테스트" />
+      <TextField layoutX="114.0" layoutY="142.0" prefHeight="23.0" prefWidth="407.0" />
+      <TextArea layoutX="114.0" layoutY="214.0" prefHeight="200.0" prefWidth="407.0" />
+      <Button layoutX="466.0" layoutY="451.0" mnemonicParsing="false" text="Button" />
+   </children>
+</Pane>
